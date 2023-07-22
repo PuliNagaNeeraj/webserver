@@ -65,11 +65,12 @@ httpd.serve_forever()
 
  ### serveroutput
 
- ![serveroutput](serveroutput.jpg)
+ ![serveroutput](serveroutput.jepg)
 
  ### clientoutput
 
- ![clientoutput](clientoutput.jpg)
+ ![clientoutput](clientoutput.jepg)
 
  ## RESULT:
  The program is executed succesfully
+
